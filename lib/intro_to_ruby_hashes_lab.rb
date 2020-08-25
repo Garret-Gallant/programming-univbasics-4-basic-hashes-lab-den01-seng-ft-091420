@@ -3,11 +3,11 @@ def new_hash
 end
 
 def my_hash
-  { instrument: => "guitar" }
+  { instrument: "guitar" }
 end
 
 def pioneer
-  { name: => "Grace Hopper"
+  { name: "Grace Hopper"
 end
 
 def id_hash_generator(number)
